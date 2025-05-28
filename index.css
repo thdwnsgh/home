@@ -1,0 +1,26 @@
+h1{
+    background-color: antiquewhite;
+    color: rgb(247, 14, 92);
+}
+
+#song{
+    color: fuchsia;
+    background-color: aquamarine;
+}
+
+#jun{
+    color: red;
+    background-color: cornflowerblue;
+}
+
+#ho{
+color: gold;
+background-color: black;
+}
+
+input[type=text]{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-bottom: 2px dashed antiquewhite;
+}
